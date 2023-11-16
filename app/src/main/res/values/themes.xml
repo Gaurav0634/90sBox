@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:fontFamily">@font/pressstart2p</item>
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <item name="android:background">@android:color/black</item>
+
+        <!-- ... other style attributes ... -->
+
+    </style>
+
+
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryColor</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+
+
+
+
+
+</resources>
